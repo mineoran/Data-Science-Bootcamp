@@ -4,6 +4,8 @@
 #### WEEK 1
 
 - Numpy, Pandas, Sklearn, Seaborn, Matplotlib
+- Pandas Profiling
+
 
 #### WEEK 2
 
