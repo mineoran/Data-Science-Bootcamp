@@ -12,3 +12,9 @@
 - Exploratory Data Analysis
 - Data collection, labeling and save
 - Supervised, Unsupervised Training Methods
+
+#### WEEK 3 
+
+- Linear and Logistic Regression
+- Decision Tree and Random Forest
+
