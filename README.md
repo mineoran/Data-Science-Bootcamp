@@ -18,3 +18,7 @@
 - Linear and Logistic Regression
 - Decision Tree and Random Forest
 
+#### WEEK 4
+
+- Clustering, KNN, DBScan
+- Dimensionality Reduction
