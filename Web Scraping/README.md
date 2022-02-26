@@ -1,4 +1,11 @@
 
+
+### In this data set: 
+'Entry, Mid and Senior Levels' in the 'Experience Level' column were first filtered within the website and then extracted separately with the code in dataextraction.py. Then the captured data was combined as 3 separate csv. 
+
+### Fn+F12;
+We review the information we want to extract on the website.
+
 ![1](https://user-images.githubusercontent.com/70154763/155850881-17818764-eb1c-44bb-8f5e-dd9e05f6eb12.png)
 ![2](https://user-images.githubusercontent.com/70154763/155850886-766e1f27-3085-48e4-af88-3bfe2799691e.png)
 ![3](https://user-images.githubusercontent.com/70154763/155850888-2143fc92-7e19-4a2e-941b-61f3f66906a9.png)
