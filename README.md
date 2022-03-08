@@ -22,3 +22,14 @@
 
 - Clustering, KNN, DBScan
 - Dimensionality Reduction
+
+#### WEEK 5
+
+- Introduction to Neural Networks, Loss, Activation, Optimizer
+- se of Keras, Tensorflow, Pytorch libraries
+- Classification and Regression with Keras
+
+#### WEEK 6
+
+- RNN, LSTM
+- Introduction to NLP
